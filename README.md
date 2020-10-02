@@ -4,7 +4,7 @@
 <!-- Badges -->
 <p align="center">
     <a href="https://shields.io/" target="_blank">
-        <img src="https://img.shields.io/github/languages/top/bwhybrow23/Template?color=brightgreenn" alt="Main Lang"/>
+        <img src="https://img.shields.io/github/languages/top/bwhybrow23/TotinoBot?color=brightgreenn" alt="Main Lang"/>
     </a>
      <a href="https://github.com/bwhybrow23" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-bwhybrow23-blue.svg?logo=github&logoColor=FFF" alt="GitHub"/>
@@ -17,7 +17,7 @@
 <!-- Content -->
 ## Hello
 
-This repository stores my template README file along with other useful default & template files for my GitHub repositories.
+This repository stores all the code for TotinoBot - the Discord bot made for [Totino](https://tiktok.com/@totinoking)
 
 ### Donating
 

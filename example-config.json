@@ -1,0 +1,22 @@
+{
+    "token": "",
+    "prefix": "^",
+    "version": "1.0.2",
+    "channels": {
+        "welcome": "",
+        "leave": "",
+        "log": ""
+    },
+    "color": {
+        "red": 14165566,
+        "green": 1295876,
+        "yellow": 14672927,
+        "blue": 4886754
+    },
+    "ids": {
+        "guild": ""
+    },
+    "roles": {
+	    "adminRole": ""
+    }
+}
